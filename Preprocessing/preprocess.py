@@ -10,7 +10,7 @@ import tqdm
 # files = ['call', 'dislike', 'fist', 'four', 'like', 'mute', 'ok', 'one', 'palm', 'peace_inverted',
 #          'peace', 'rock', 'stop_inverted', 'stop', 'three', 'three2', 'two_up_inverted', 'two_up']
 
-files = ["dislike"]
+files = ["fist"]
 
 subsample = False
 
